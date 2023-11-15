@@ -66,6 +66,15 @@ Yazdığımız bu değişkende değişiklik yapmak istersek de + işaretin yanı
 Verilerin belli hizada görünmesi sağlanır. Biz bu kısma birden fazla içeriği hizalı bir şekilde yazmak istediğimiz için de her bir içerik de metin oluşturulur  şablon kullanılmaz ise hizalı bir şekilde görünebilmesi için space dikkat edilerek tekrar tekrar uğraşmamız gerekmektedir .Bunun yerine şablon oluşturursak yazdığımız içerikleri belirlediğimiz ölçülere göre düzenini kendi oluşturur.
 
 
+Bunun için de pencereye sağ tıklayarak şablon oluşturabiliriz.
+![image](https://github.com/sumeyyaakbulut/Smart-Forms/assets/62395974/cda38a7f-ea35-40ec-808c-679a1ce40352)
+Yukarıdaki ekran da ayrıntılar kısmına tıklayalım.
+![image](https://github.com/sumeyyaakbulut/Smart-Forms/assets/62395974/e56b6bde-235b-45f4-9117-c076d63eac66)
+Son kısmı  kaç tane satırdan oluşacağını gösterir. Yükseklik her bir satır arasında ki mesafeyi gösterir .Kaç adet sütunum olmasını istiyorsak da 1. cm cinsinden büyüklüğü şeklinde her sütun için genişlik belirlenir. Yaptığımız içerik te her bir sütun için belirlediğimiz büyüklük toplamı yukarıdaki genişliğin toplamı kısmına yazılmalıdır.
+Bu şablonun bağlı olduğu pencerenin genişliği sütun için belirlenen değerden büyük veya eşit olmalıdır ki içerisine sığabilmesi için gereklidir.![image](https://github.com/sumeyyaakbulut/Smart-Forms/assets/62395974/7f59a4f5-9923-4982-9fc9-990ad260d1e5)
+
+
+
 
 
 

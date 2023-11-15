@@ -39,6 +39,14 @@ Daha sonra default da page bir diye sayfa default olarak gelir.
 * Artan Ekran: 
 
 ![image](https://github.com/sumeyyaakbulut/Smart-Forms/assets/62395974/7fff1368-4d4d-40b9-a1ae-5894f738bc91)
+%PAGE1 altında default olarak Main daha çok tabloların basıldığı yerdir. Eğer tablodaki veriler main içerisine sığmaz ise ikinci sayfaya geçmesini sağlar. Sayfa yapısının kontrolü için kullanılmaktadır.
+
+## Pencere
+Pencere oluşturmak için %PAGE kısmına sağ tıkladığımız zaman ,yarat , kes , kopyala , yapıştır  , sil ,genişlet ,sıkılıştır  kısımlardan oluşmaktadır. Genişlet kısmı page altındaki tüm içerikleri görmek istersek seçilir. Sıkıştır ise page altında bulunan içerikleri görmek istemezsek kullanılır.
+Pencere oluştururken %page sağ tıkla , yarat ,pencere , sırasıyla işlemlerini gerçekleşince oluşur.
+Penceremiz bağlığı içerdiği için header ismi verilir. Oluşturduğumuz pencerelerin özellikleri aşağıdaki şekildedir.
+
+![image](https://github.com/sumeyyaakbulut/Smart-Forms/assets/62395974/6d82cdec-a277-4dd2-a32a-bbae93bd590d)
 
 
 

@@ -31,6 +31,15 @@ Genel veriler, tipler , alan sembolü , başlangıç durumu , form rutinleri , m
 
 ![image](https://github.com/sumeyyaakbulut/Smart-Forms/assets/62395974/a5b6fb9e-050a-4963-8c9a-ce35bc2bc947)
 
+## %PAGE
+Her çıktı bizim için bir sayfadır.
+Daha sonra default da page bir diye sayfa default olarak gelir.
+* Genel Özellikler : Birden fazla sayfa üzerinde işlem yapılacaksa sayfa sayacı ile nasıl numaralanması gerektiği seçilir.
+* Çıktı Seçenekleri: Sayfanın dikey mi yatay mı olduğu bu kısımdan seçilir.
+* Artan Ekran: 
+
+![image](https://github.com/sumeyyaakbulut/Smart-Forms/assets/62395974/7fff1368-4d4d-40b9-a1ae-5894f738bc91)
+
 
 
 

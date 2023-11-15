@@ -8,8 +8,21 @@
 * Stil vermek istersek de Smarttyles kullanılır.
 
 
-Smartforms tcode yazılır, form isim verilir.Sol tarafta genel yapının olduğu kısımdır, orta kısım sol daki  tıkladığımız içeriğin detayını görüntülediğimiz kısımdır. Sağ tarafta ise teknik tasarımın anlık olarak görünmesi sağlanır.
+Smartforms tcode yazılır, form isim verilir.Sol tarafta genel yapının olduğu kısımdır, orta kısım sol daki  tıkladığımız içeriğin detayını görüntülediğimiz kısımdır. Sağ tarafta ise teknik tasarımın anlık olarak görünmesi sağlanır.Form Niteliği , kimin ne zaman oluşturduğu veya değiştirdiği ile ilgili bilgileri tutar.Genel özellikleri gibi çıktı seçeneklerinden sayfa biçimi seçilir default olarak DINA4 (A4)  ekranı gelir. Biz istediğimiz ekranı boyutunu bu kısımdan seçebiliriz.
 ![image](https://github.com/sumeyyaakbulut/Smart-Forms/assets/62395974/4493c891-2715-45de-a91f-cbcf3adc770c)
+
+
+Form arayüzü dört başlıktan oluşmaktadır .İçe aktar , dışa aktar  , tablolar , istisnalar dan oluşmaktadır.
+Programdan smartform çağıracağımız için smartform fonksiyona benzetilebilir.
+İçe aktar: smart form dışarıdan göndereceğimiz parametrelerdir .Ekranda görülen default standart olarak tanımladıkları  zorunlu alanlar bulunmaktadır.
+Dışa aktar: kısmı ise smart form çağırdığımız  kısımda ki  data  döneceği yapılardır.
+Tablolar:
+İstisnalar:
+![image](https://github.com/sumeyyaakbulut/Smart-Forms/assets/62395974/110706c2-672e-4431-a4b6-3f530cafdf21)
+
+
+
+
 
 
 

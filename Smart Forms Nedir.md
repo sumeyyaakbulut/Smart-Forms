@@ -15,9 +15,7 @@ Smartforms tcode yazılır, form isim verilir.Sol tarafta genel yapının olduğ
 Form arayüzü dört başlıktan oluşmaktadır .İçe aktar , dışa aktar  , tablolar , istisnalar dan oluşmaktadır.
 Programdan smartform çağıracağımız için smartform fonksiyona benzetilebilir.
 İçe aktar: smart form dışarıdan göndereceğimiz parametrelerdir .Ekranda görülen default standart olarak tanımladıkları  zorunlu alanlar bulunmaktadır.
-Dışa aktar: kısmı ise smart form çağırdığımız  kısımda ki  data  döneceği yapılardır.
-Tablolar:
-İstisnalar:
+Dışa aktar: kısmı ise smart form çağırdığımız  kısımda ki  data  döneceği yapılardır.Tablolar:İstisnalar:
 ![image](https://github.com/sumeyyaakbulut/Smart-Forms/assets/62395974/110706c2-672e-4431-a4b6-3f530cafdf21)
 
 

@@ -45,8 +45,11 @@ Daha sonra default da page bir diye sayfa default olarak gelir.
 Pencere oluşturmak için %PAGE kısmına sağ tıkladığımız zaman ,yarat , kes , kopyala , yapıştır  , sil ,genişlet ,sıkılıştır  kısımlardan oluşmaktadır. Genişlet kısmı page altındaki tüm içerikleri görmek istersek seçilir. Sıkıştır ise page altında bulunan içerikleri görmek istemezsek kullanılır.
 Pencere oluştururken %page sağ tıkla , yarat ,pencere , sırasıyla işlemlerini gerçekleşince oluşur.
 Penceremiz bağlığı içerdiği için header ismi verilir. Oluşturduğumuz pencerelerin özellikleri aşağıdaki şekildedir.
+![image](https://github.com/sumeyyaakbulut/Smart-Forms/assets/62395974/520f105c-39fe-43bc-9cff-d1033235e39c)
+* Pencere genel özellikler , çıktı seçenekleri , koşullar dan oluşmaktadır.Genel özellikler: pencere tipi ana pencere default olarak gelen ( main ) kısmı gösterir.Biz bu kısım da ikinci pencere seçilir. İkinci pencere ,verileri sonraki sayfaya genişletmez .Belirtildiği  sayfa yeterli  alan varsa tam metni yazdıracaktır.
+* Çıktı Seçenekleri: Bu penceremizin konumu sağ taraftan hareket ettirebiliriz  yada çıktı seçeneklerinden genişlik , yükseklik , sol kenarlık , sağ kenarlık  , çizgi , gölgelendirme , işlemleri  bu kısımda ayarlanır.
+* Koşullar: Birden fazla sayfamız bulunuyor ise bu pencerenin hangi sayfada ve hangi mantıkla görüneceğini belirlenir.
 
-![image](https://github.com/sumeyyaakbulut/Smart-Forms/assets/62395974/6d82cdec-a277-4dd2-a32a-bbae93bd590d)
 
 
 

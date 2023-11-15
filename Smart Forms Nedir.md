@@ -13,7 +13,7 @@ Smartforms tcode yazılır, form isim verilir.Sol tarafta genel yapının olduğ
 ![image](https://github.com/sumeyyaakbulut/Smart-Forms/assets/62395974/4493c891-2715-45de-a91f-cbcf3adc770c)
 
 
-## Form Arayüzü![image](https://github.com/sumeyyaakbulut/Smart-Forms/assets/62395974/5ac79c2d-2f27-4de2-bf4c-0686fea037c2)
+## Form Arayüzü
 
 Form arayüzü dört başlıktan oluşmaktadır .İçe aktar , dışa aktar  , tablolar , istisnalar dan oluşmaktadır.
 Programdan smartform çağıracağımız için smartform fonksiyona benzetilebilir.
@@ -22,6 +22,14 @@ Dışa aktar: kısmı ise smart form çağırdığımız  kısımda ki  data  d�
 ![image](https://github.com/sumeyyaakbulut/Smart-Forms/assets/62395974/110706c2-672e-4431-a4b6-3f530cafdf21)
 
 
+## Genel Tanımlar
+Genel veriler, tipler , alan sembolü , başlangıç durumu , form rutinleri , miktar alanlarından oluşmaktadır.
+Genel verilerde: data tanımlamak için oluşturduğumuz include da , globalde data tanımlaması şeklindedir.
+Tipler: local type tanımlamak istersek kullanılır.
+Başlangıç durumunu getir:  ise  çıktı açılır açılmaz görüntülenen kısımdır initialization.
+Giriş Parametreleri program satırında kullanacağımız parametreler bu kısımla tanımlanır
+
+![image](https://github.com/sumeyyaakbulut/Smart-Forms/assets/62395974/a5b6fb9e-050a-4963-8c9a-ce35bc2bc947)
 
 
 

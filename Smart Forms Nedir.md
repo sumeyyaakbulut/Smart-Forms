@@ -84,7 +84,7 @@ Sütun genişliklerinin toplamı da tablo genişliği kısmına verilir. Main ge
 LTYPE2 kısmı tablonun en altına yeni bir alan oluşturmak için kullanılmıştır.LTYPE1 de dört sütundan oluşmaktadır ama LTYPE2 ise 3 sütundan oluşur .Burada önemli olan sütun değil de toplam genişlik  göre istenilen sayıda sütun oluşturulabilir.
 
 Daha sonra başlık altına sağ tıklayarak yarat tablo satırı oluşturulur. Oluşan satırdan satır tipi seçilir biz ilk olarak LTYPE1 seçeriz .Bu içeriği seçtikten sonra seçilen içerik de ne kadar sütun varsa o kadar alan ekler. Bizim dört tane sütunumuz olduğun için dört adet ekler.
-Oluşan her bir alan altına metin oluşturulur. Oluşturulan bu metin kısımlarına da sütun da hangi ismin görünmesini istiyorsak onun ismi yazılır.![image]
+Oluşan her bir alan altına metin oluşturulur. Oluşturulan bu metin kısımlarına da sütun da hangi ismin görünmesini istiyorsak onun ismi yazılır.
 ![image](https://github.com/sumeyyaakbulut/Smart-Forms/assets/62395974/8bdb5cfc-a3a5-4dab-9357-3c99d8eb862c)
 
 Tabloyu ana alanın altında yarat tablo satırı oluştur .Daha sonra da satır t
@@ -93,7 +93,7 @@ ipi olarak da LTYPE1 seçilir.
 
 Ana alan kısmına tablo yazacağımız için ilk olarak bu kullanacağımız internal tablo structure ve table type tanımlamamız gerekmektedir. Genel tanımlamalar kısmına  genel veriler ile (Global tanımlama) structure , internal tablomuzu  ve tablonun altına bir satır ekleyip  o satırda aradığımız içerikten kaç tane olduğunu görmek için integer bir değişken tanımlanır.
 Internal tablo oluşturmak için type table of olması gerekmektedir. Ama bu kısım da type ve type ref to olduğu için internal tabloyu direk bu kısım da oluşturamayız. O yüzden de istersek se11 den table type oluşturabiliriz yada tipler kısmın da  table type scarr dan oluşturabiliriz. Oluşturduğumuz bu table type  tipinde internal tablomuzu oluşturabiliriz.
-![image](https://github.com/sumeyyaakbulut/Smart-Forms/assets/62395974/68a6f6db-1833-4464-8e44-c3daf2520d69)
+
 
 
 

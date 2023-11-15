@@ -50,6 +50,23 @@ Penceremiz bağlığı içerdiği için header ismi verilir. Oluşturduğumuz pe
 * Çıktı Seçenekleri: Bu penceremizin konumu sağ taraftan hareket ettirebiliriz  yada çıktı seçeneklerinden genişlik , yükseklik , sol kenarlık , sağ kenarlık  , çizgi , gölgelendirme , işlemleri  bu kısımda ayarlanır.
 * Koşullar: Birden fazla sayfamız bulunuyor ise bu pencerenin hangi sayfada ve hangi mantıkla görüneceğini belirlenir.
 
+## Metin 
+Pencere ekranına metin eklemek ve çıktıda görünmesini istediğimiz içerikler bu kısım da yazılır.
+Oluşturduğumuz pencereye sağ tıklayarak yarat metin ile oluşturulur .Birden fazla metin oluşturursak alt alta  bu metinleri yazar.
+
+## Sayfa Numarası
+Sayfa numarası eklemek istersek pencereden bir metin oluşturulur ve sayfanın alt kısmına konulur.
+Sayfa numarası sabit değil yani bunu bir metin olarak ekleyemeyiz(sayfa numarası dinamik olarak yeni sayfa eklendiğinde değişebilmelidir.) .O yüzden de değişken olarak tanımlanır.
+![image](https://github.com/sumeyyaakbulut/Smart-Forms/assets/62395974/b0e7d1a3-95aa-4cb2-9016-96cad948bdaa)
+
+Artı işaretine tıklayıp && arasına değişkenimizin ismi yazılır. Sayfa numarasını tutması için sfsy-page yazalım.
+Yazdığımız bu değişkende değişiklik yapmak istersek de + işaretin yanındaki kalemden değişiklik yapılabilir.
+
+## Şablon
+Verilerin belli hizada görünmesi sağlanır. Biz bu kısma birden fazla içeriği hizalı bir şekilde yazmak istediğimiz için de her bir içerik de metin oluşturulur  şablon kullanılmaz ise hizalı bir şekilde görünebilmesi için space dikkat edilerek tekrar tekrar uğraşmamız gerekmektedir .Bunun yerine şablon oluşturursak yazdığımız içerikleri belirlediğimiz ölçülere göre düzenini kendi oluşturur.
+
+
+
 
 
 

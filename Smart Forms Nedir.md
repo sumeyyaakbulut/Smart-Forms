@@ -7,10 +7,13 @@
 * Smart Forms ile veriler statik ve dinamik tablolardan alınabilir. Tablo başlığı alt toplam ile tetiklenen  olaylar tarafından belirlenir ve  veriler sonuçtan önce sıralanmış olur.
 * Stil vermek istersek de Smarttyles kullanılır.
 
+## Form Niteliği
 
 Smartforms tcode yazılır, form isim verilir.Sol tarafta genel yapının olduğu kısımdır, orta kısım sol daki  tıkladığımız içeriğin detayını görüntülediğimiz kısımdır. Sağ tarafta ise teknik tasarımın anlık olarak görünmesi sağlanır.Form Niteliği , kimin ne zaman oluşturduğu veya değiştirdiği ile ilgili bilgileri tutar.Genel özellikleri gibi çıktı seçeneklerinden sayfa biçimi seçilir default olarak DINA4 (A4)  ekranı gelir. Biz istediğimiz ekranı boyutunu bu kısımdan seçebiliriz.
 ![image](https://github.com/sumeyyaakbulut/Smart-Forms/assets/62395974/4493c891-2715-45de-a91f-cbcf3adc770c)
 
+
+## Form Arayüzü![image](https://github.com/sumeyyaakbulut/Smart-Forms/assets/62395974/5ac79c2d-2f27-4de2-bf4c-0686fea037c2)
 
 Form arayüzü dört başlıktan oluşmaktadır .İçe aktar , dışa aktar  , tablolar , istisnalar dan oluşmaktadır.
 Programdan smartform çağıracağımız için smartform fonksiyona benzetilebilir.
